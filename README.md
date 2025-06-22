@@ -54,14 +54,13 @@ Please ensure all paths in `config.py` and within the notebooks are correctly se
 ## Citation
 
 If you use this code or build upon it in your research, please cite this repository.
-*(Consider adding a CITATION.cff file for easier citation, or specify your preferred citation format here).*
 
 Example:
-Stallard, Benjamin. (YYYY). *Pupillometry Analysis for "The Role of Brain Arousal Systems in Prediction and Expectation"* (Version X.Y.Z) [Software]. GitHub. [Link to your GitHub repo]
+Stallard, Benjamin. (YYYY). *Pupillometry Analysis for "The Role of Brain Arousal Systems in Prediction and Expectation"* (Version X.Y.Z) [Software]. GitHub. https://github.com/BSRes/LC-Pupillometry-Study
 
 Please also consider citing the associated report:
 Stallard, B. (YYYY). The Role of Brain Arousal Systems in Prediction and Expectation: A pilot study investigating pupil responses to unexpected stimuli under high vs low attentional load. [Unpublished rotation report]. Royal Holloway, University of London.
 
 ## License
 
-This project is licensed under the [NAME OF YOUR CHOSEN LICENSE - e.g., MIT License]. See the `LICENSE` file for details.
+This project is licensed under the MIT License. See the `LICENSE` file for details.
