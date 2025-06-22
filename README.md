@@ -62,6 +62,10 @@ Stallard, Benjamin. (YYYY). *Pupillometry Analysis for "The Role of Brain Arousa
 Please also consider citing the associated report:
 Stallard, B. (YYYY). The Role of Brain Arousal Systems in Prediction and Expectation: A pilot study investigating pupil responses to unexpected stimuli under high vs low attentional load. [Unpublished rotation report]. Royal Holloway, University of London.
 
+## Disclaimer
+
+A lot of this code has been written by hand, while a lot has been generated with AI. Which one is better is likely debatable, but proceed with caution regardless - you'll probably find no end of bugs if you inspect it too closely...
+
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
