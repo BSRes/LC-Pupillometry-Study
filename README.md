@@ -64,7 +64,7 @@ Stallard, B. (YYYY). The Role of Brain Arousal Systems in Prediction and Expecta
 
 ## Disclaimer
 
-A lot of this code has been written by hand, while a lot has been generated with AI. Which one is better is likely debatable, but proceed with caution regardless - you'll probably find no end of bugs if you inspect it too closely...
+A lot of this code has been written by hand, while a lot has been generated with AI. Which one is better is likely debatable, but proceed with caution regardless - you'll probably find no end of bugs if you inspect it too closely... For example, there is no way to cancel the experiment once it begins. This is easily solvable by adding in a keyboard event capture with PsychoPy, but I never got around to it.
 
 ## License
 
